@@ -5,9 +5,9 @@ This repository is having all the codes with JSON files for making inventory man
 
 I've used JSON file system for it
 This assignment contains the file of 
-*product.json
-*Adding new inventory
-*purchasing the inventory
+product.json
+Adding new inventory
+purchasing the inventory
 1. New invenroty can be added
 2. Purchase can be done
 3. Bill can generated
