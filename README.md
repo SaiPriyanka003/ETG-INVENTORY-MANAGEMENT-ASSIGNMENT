@@ -1,7 +1,7 @@
 ## ETG-INVENTORY-MANAGEMENT-ASSIGNMENT
 This repository is having all the codes with JSON files for making inventory management system during ETG  AI/ML intership
 
-###I've made an inventory management system which is working on NoSQL based databse
+### I've made an inventory management system which is working on NoSQL based databse
 
 I've used JSON file system for it.
 This assignment contains the file of 
